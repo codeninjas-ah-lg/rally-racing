@@ -1,1 +1,2 @@
-# rally-racing
+# Rally Racing
+Cool car racing game
